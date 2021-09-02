@@ -14,7 +14,7 @@ hi, i'm [Gagan](https://gagankrmahto.me/), a passionate self-taught full stack w
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/gagankrmahto/gagankrmahto/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/gagankrmahto/gagankrmahto/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:gagan0966@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;

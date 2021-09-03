@@ -30,8 +30,23 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gagankrmahto&show_icons=true&theme=gotham" alt="gagankrmahto" />
 
 ## Arth Task
+
 ### [Task 1](https://gagankrmahto.medium.com/big-data-fuel-or-challenge-a11eeae5af7d)
+
 ### [Task 2](https://medium.com/@gagankrmahto/amazon-on-aws-8050f1b66fd2)
+
 ### [Task 3](https://gagankrmahto.medium.com/creating-key-pair-security-group-ec2-instance-and-ebs-and-mount-it-a82ebe478173)
+
 ### [Task 5](https://gagankrmahto.medium.com/how-companies-are-getting-benefits-from-ai-859f7f23bd3c)
+
 ### [Task 6](https://www.linkedin.com/feed/update/urn:li:ugcPost:6726793002947284993/)
+
+### [Task 7]()
+
+### [Task 8](https://github.com/gagankrmahto/PROGRAM_MENU)
+
+### Task 9
+
+[Task9.1](https://github.com/gagankrmahto/MENU_PROGRAM_WEBUI_USING_FLASK)
+
+[Task9.2]([GitHub - gagankrmahto/arth_task_9.2](https://github.com/gagankrmahto/arth_task_9.2))

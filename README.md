@@ -71,4 +71,52 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ### Task  14
 
-### Task  15
+- [14.1 ](https://www.linkedin.com/posts/gagankrmahto_vimaldaga-righteducation-educationredefine-activity-6747442505211547648-UNKw)
+
+### Task 15
+
+### [Task 16](https://gagankrmahto.medium.com/why-spotify-using-kubernetes-instead-of-already-having-its-own-orchestration-tool-e28caf73978a)
+
+### Task 17
+
+### [Task 18](https://www.linkedin.com/posts/gagankrmahto_vimaldaga-righteducation-educationredefine-activity-6753858730971992064-ssvx)
+
+### Task 19
+
+### [Task 20](https://gagankrmahto.medium.com/industry-use-case-of-neural-networks-f55d0491ac10)
+
+### [Task 21](https://www.linkedin.com/pulse/industrial-use-cases-aks-gagan-kumar-mahto)
+
+### [Task 22](https://gagankrmahto.medium.com/aws-sqs-case-study-movinary-4260529d48ad)
+
+### Task 23
+
+### Task 24
+
+### Task 25
+
+### [Task 26](https://www.linkedin.com/posts/gagankrmahto_vimaldaga-righteducation-educationredefine-activity-6804076344549396480-trPR)
+
+### Task 28
+
+### [ Task 29](https://gagankrmahto.medium.com/jenkins-industry-usecase-a7f847af061a)
+
+### [Task 30](https://gagankrmahto.medium.com/industry-use-cases-of-openshift-b4ed292b551d)
+
+### Task 31 - resume
+
+### [Task 32](https://gagankrmahto.medium.com/mongodb-industry-28f1e54379b7)
+
+### Task 33 [blog](https://www.linkedin.com/posts/gagankrmahto_flask-mongodb-mongodbbylw-activity-6798170644006662144-uwsx) [git]([GitHub - gagankrmahto/basic-blog-flask](https://github.com/gagankrmahto/basic-blog-flask))
+
+### Task 35 [git](https://github.com/gagankrmahto/summer-task-4) [blog](https://www.linkedin.com/posts/gagankrmahto_vimaldaga-righteducation-educationredefine-activity-6809542578506125312-1KcQ)
+
+### Task 36 [git](https://github.com/gagankrmahto/summer-task-3) [blog](https://www.linkedin.com/posts/gagankrmahto_vimaldaga-righteducation-educationredefine-activity-6809522401483784192-5j-H)
+
+### Task 38 [git](https://github.com/gagankrmahto/summer_task6) [blog](https://www.linkedin.com/posts/gagankrmahto_worldrecordholder-training-internship-activity-6812941836261343232-EwwJ)
+
+### Task 39 [git](https://github.com/gagankrmahto/summer_task_7) [blog](https://www.linkedin.com/posts/gagankrmahto_worldrecordholder-training-internship-activity-6831561214003355648-J4ok)
+
+### Task 40 [git](https://github.com/gagankrmahto/summer_task_8_automatic_number_plate_detection) [blog](https://www.linkedin.com/posts/gagankrmahto_model-cnn-django-activity-6836715618452996096-lSX3)
+
+### Task 40  [blog](https://gagankrmahto.medium.com/ospf-a-dynamic-routing-protocol-7c13d0de3cfb)

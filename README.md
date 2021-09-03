@@ -28,12 +28,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-
-<!-- TODO-IST:END -->[readme.md](https://github.com/gagankrmahto/gagankrmahto/files/7101499/readme.md)
-
 
 
 📈 my github stats

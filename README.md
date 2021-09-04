@@ -42,6 +42,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ### [Task 6](https://www.linkedin.com/feed/update/urn:li:ugcPost:6726793002947284993/)
 
 ### [Task 7](https://www.linkedin.com/posts/sourav-dinda-8025491b7_arth-linuxworld-vimaldaga-activity-6729370950208405504-rZv5)
+  [blog](https://www.linkedin.com/pulse/integration-lvm-hadoop-cluster-making-shared-storage-elastic-dinda/?trackingId=riVapVhYxh0Sj%2BxIHneGUg%3D%3D)
 
 ### [Task 8](https://github.com/gagankrmahto/PROGRAM_MENU)
 
